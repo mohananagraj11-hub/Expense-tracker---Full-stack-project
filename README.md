@@ -1,1 +1,1 @@
-# Expense-tracker---Full-stack-project
+# Full-stack-project
